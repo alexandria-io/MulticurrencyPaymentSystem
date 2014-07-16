@@ -13,6 +13,6 @@ func main() {
 	conf := mucupa.ReadConfig("conf.json")
 	fmt.Println("Starting listener on " + conf.Url + ":" + conf.Port)
 
-	mucupa.MuxInit()
+	mucupa.MuxInit(conf)
 
 }
