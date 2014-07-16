@@ -1,7 +1,7 @@
 Multicurrency Payment System
 ============================
 
-This repository is an example of the multicurrency-payment-system in use. It demonstrates to the user how to set up a configuration file and where logs are stored in the system. All documentation for the multicurrency-payment-system can be found [here][1].
+This repository is an example of the multicurrency-payment-system in use. It demonstrates one instance of a proper setup and configuration of the system. Documentation for the source code of multicurrency-payment-system can be found [here][1].
 
 License
 -------
